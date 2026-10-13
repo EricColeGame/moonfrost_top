@@ -1,1 +1,525 @@
-{}
+{
+  "site": {
+    "name": "Moonfrost Wiki",
+    "shortName": "Moonfrost",
+    "tagline": "Guías acogedoras de granja fantástica, crafteo y personajes",
+    "description": "Moonfrost es un acogedor juego de simulación de vida en mundo abierto donde los jugadores construyen granjas, exploran una isla mágica, reúnen recursos, fabrican objetos, conocen personajes y crean su propia vida fantástica y tranquila.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "characters": "Personajes",
+    "platforms": "Plataformas",
+    "crypto": "Cripto",
+    "community": "Comunidad",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Moonfrost Wiki: granja, crafteo y guías",
+      "description": "Moonfrost Wiki ofrece guías de granja, consejos de crafteo, información de personajes, bases de datos de objetos y todo lo que los jugadores necesitan para esta acogedora aventura de simulación de vida fantástica."
+    },
+    "hero": {
+      "eyebrow": "Aventura acogedora de granja fantástica",
+      "title": "Moonfrost Wiki",
+      "description": "Moonfrost es un acogedor juego de simulación de vida en mundo abierto donde los jugadores construyen granjas, exploran una isla mágica, reúnen recursos, fabrican objetos, conocen personajes y crean su propia vida fantástica y tranquila.",
+      "stats": [
+        "100K+ jugadores en lista de deseos",
+        "100+ objetos disponibles",
+        "0 códigos activos",
+        "Actualizaciones semanales"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Guía de granja y crafteo",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en Moonfrost",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el bucle central de Moonfrost: despeja un pequeño terreno junto a tu cabaña, reclama tus herramientas iniciales y sobrevive a tu primer día limitado por la resistencia sin desmayarte."
+        },
+        {
+          "number": "2",
+          "title": "Guía de granja",
+          "description": "Labra la tierra con la azada, riega los cultivos cada día que no llueva y planta semillas de maduración rápida como el Rábano Brote-Rápido para financiar tus primeras mejoras de herramientas."
+        },
+        {
+          "number": "3",
+          "title": "Guía de crafteo",
+          "description": "Convierte troncos toscos, mineral y fibra vegetal en tablones, lingotes y cordel en el Banco de Trabajo Básico, el Banco de Carpintería y el Horno de Piedra."
+        },
+        {
+          "number": "4",
+          "title": "Guía de pesca",
+          "description": "Lanza el sedal a aguas más profundas para capturas más raras y luego gana el minijuego de tensión soltando el carrete antes de que la línea se rompa."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías de Moonfrost en tendencia",
+      "quickLinks": [
+        "Guía para principiantes de Moonfrost",
+        "Guía de granja",
+        "Guía de crafteo",
+        "Guía de pesca"
+      ],
+      "cards": [
+        {
+          "badge": "Inicio",
+          "title": "Guía para principiantes de Moonfrost",
+          "description": "Prioridades esenciales del primer día: herramientas, resistencia y tus primeros cultivos.",
+          "href": "/guide/moonfrost-beginner-guide"
+        },
+        {
+          "badge": "Granja",
+          "title": "Guía de granja de Moonfrost",
+          "description": "Preparación del suelo, ciclos de cultivo y niveles de herramientas para un hogar productivo.",
+          "href": "/mechanics/moonfrost-farming"
+        },
+        {
+          "badge": "Crafteo",
+          "title": "Guía de crafteo de Moonfrost",
+          "description": "Bancos de trabajo, cadenas de refinado y niveles de planos explicados.",
+          "href": "/mechanics/moonfrost-crafting"
+        },
+        {
+          "badge": "Pesca",
+          "title": "Guía de pesca de Moonfrost",
+          "description": "Profundidad del lanzamiento, mejoras de aparejos y el minijuego de tensión al recoger.",
+          "href": "/mechanics/moonfrost-fishing"
+        },
+        {
+          "badge": "Romance",
+          "title": "Guía de romance de Moonfrost",
+          "description": "Regalos, eventos de corazón y cómo cortejar a tu aldeano favorito.",
+          "href": "/mechanics/moonfrost-romance"
+        },
+        {
+          "badge": "Personajes",
+          "title": "Guía de aldeanos de Moonfrost",
+          "description": "Horarios diarios, niveles de amistad y recompensas de mejora del pueblo.",
+          "href": "/characters/moonfrost-villagers"
+        },
+        {
+          "badge": "Construcción",
+          "title": "Guía de construcción de Moonfrost",
+          "description": "Colocación en la cuadrícula, refinado de materiales y consejos de diseño del hogar.",
+          "href": "/mechanics/moonfrost-building"
+        },
+        {
+          "badge": "Plataforma",
+          "title": "Guía de PC de Moonfrost",
+          "description": "Requisitos del sistema, controles de escritorio y ajustes gráficos.",
+          "href": "/platforms/moonfrost-pc"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Moonfrost?",
+      "paragraphs": [
+        "Moonfrost es un acogedor RPG de simulación de vida en pixel art 2D del estudio independiente Oxalis Games. Heredas una finca cubierta de maleza y la reconstruyes hasta convertirla en una granja próspera: labrar la tierra, plantar cultivos de temporada, fabricar herramientas y decoración, y explorar un campo mágico marcado por los ciclos de día y noche y el clima.",
+        "Más allá de la granja, Moonfrost añade pesca, minería, crafteo en bancos de trabajo y un profundo sistema social de aldeanos con horarios diarios, preferencias de regalos, rutas de romance y misiones comunitarias. El cooperativo en línea te permite construir y explorar el valle con amigos mientras el juego avanza por sus fases de prueba hacia un lanzamiento completo en PC."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Oxalis Games"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC (Steam / Epic)"
+        },
+        {
+          "label": "Género",
+          "value": "RPG acogedor de simulación de vida"
+        },
+        {
+          "label": "Multijugador",
+          "value": "Cooperativo en línea"
+        },
+        {
+          "label": "Herramientas básicas",
+          "value": "5"
+        },
+        {
+          "label": "Estaciones de crafteo",
+          "value": "5"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora las guías de Moonfrost",
+      "description": "Ocho temas centrales de Moonfrost, desde tus primeros cultivos hasta los requisitos del sistema, cada uno con una vista previa rápida y una guía completa.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Moonfrost",
+          "description": "Orientación para nuevos jugadores que cubre lo básico de la granja, la reconstrucción del pueblo, la exploración, el crafteo y los primeros sistemas de progresión, para que los principiantes entiendan el bucle central de juego y sus primeros pasos.",
+          "href": "/guide/moonfrost-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Despeja un perímetro compacto junto a tu cabaña en lugar de talar todo el terreno."
+            },
+            {
+              "label": "2",
+              "detail": "Habla con los personajes del tutorial cercanos para reclamar tu conjunto básico de herramientas."
+            },
+            {
+              "label": "3",
+              "detail": "Labra la tierra despejada con la azada y planta semillas de ciclo corto como el Rábano Brote-Rápido."
+            },
+            {
+              "label": "4",
+              "detail": "Riega cada cultivo cada día que no llueva, o su temporizador de crecimiento se detendrá."
+            },
+            {
+              "label": "5",
+              "detail": "Mejora primero la regadera y el hacha de mano en la herrería para más capacidad y acceso a madera dura."
+            },
+            {
+              "label": "6",
+              "detail": "Explora el pueblo y conoce aldeanos en salidas cortas para no vaciar nunca tu barra de resistencia."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de granja de Moonfrost",
+          "description": "Mecánicas de granja como el despeje del terreno, el labrado, el cultivo, el riego y la cosecha, dirigidas a jugadores que construyen un hogar productivo y planifican cosechas de temporada.",
+          "href": "/mechanics/moonfrost-farming",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rábano",
+              "detail": "El Rábano Brote-Rápido madura en 3 días y aporta un flujo de ingresos temprano y rápido."
+            },
+            {
+              "label": "Baya",
+              "detail": "La Baya Dulce de Primavera tarda 5 días pero sirve como tentempié energético y regalo."
+            },
+            {
+              "label": "Verduras",
+              "detail": "Las Verduras Crujientes del Prado maduran en 4 días y alimentan tu olla de cocina."
+            },
+            {
+              "label": "Flor",
+              "detail": "La Flor Solar Dorada necesita 7 días y se vende con el mayor beneficio temprano."
+            },
+            {
+              "label": "Hierba",
+              "detail": "La Hierba Fibrosa del Campo se riega con la lluvia y aporta forraje y fibra de crafteo."
+            },
+            {
+              "label": "Agua",
+              "detail": "Riega las parcelas plantadas a diario salvo si llueve, ya que el crecimiento solo avanza de noche."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Recetas de crafteo de Moonfrost",
+          "description": "Información relacionada con el crafteo: bancos de trabajo, niveles de planos y las cadenas de refinado que convierten materias primas en herramientas, decoraciones, atuendos y coleccionables.",
+          "href": "/mechanics/moonfrost-crafting",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Tablones aserrados",
+              "detail": "Refina 3 troncos toscos en 1 tablón para cofres, gallineros y suelos."
+            },
+            {
+              "label": "Vigas curadas",
+              "detail": "Convierte 4 trozos de madera dura en 1 viga para marcos de granero y mangos de herramientas."
+            },
+            {
+              "label": "Lingotes de cobre",
+              "detail": "Funde 5 minerales de cobre más 1 carbón vegetal en un lingote para mejoras de herramientas de nivel 1."
+            },
+            {
+              "label": "Lingotes de hierro",
+              "detail": "Funde 5 minerales de hierro más 2 carbones vegetales para herramientas resistentes y maquinaria de procesado."
+            },
+            {
+              "label": "Cordel trenzado",
+              "detail": "Hila 4 fibras vegetales silvestres en cordel para mochilas, aparejos y lona."
+            },
+            {
+              "label": "Ladrillos cocidos",
+              "detail": "Cuece 2 arcillas más 1 astilla en ladrillos para pozos y caminos."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de personajes de Moonfrost",
+          "description": "Aldeanos, amistades, opciones de romance y progresión relacionada con los personajes, dirigida a jugadores interesados en las historias de PNJ, los horarios diarios y el sistema de relaciones.",
+          "href": "/characters/moonfrost-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Herrero",
+              "detail": "Mejora tus herramientas y trabaja el metal en la forja y la fundición del pueblo."
+            },
+            {
+              "label": "Herborista",
+              "detail": "Vende semillas y enseña a recolectar por temporadas en la botica y el invernadero."
+            },
+            {
+              "label": "Erudito",
+              "detail": "Reúne saber y artefactos por la biblioteca del pueblo y las ruinas sumergidas."
+            },
+            {
+              "label": "Carpintero",
+              "detail": "Se encarga de las ampliaciones de la granja y las mejoras de la casa desde el taller de madera."
+            },
+            {
+              "label": "Pescador",
+              "detail": "Comparte aparejos de pesca y consejos sobre las aguas en el muelle sur."
+            },
+            {
+              "label": "Romance",
+              "detail": "Gana corazones con charlas diarias, regalos preferidos y visitas a festivales."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de construcción de Moonfrost",
+          "description": "Personalización del hogar, sistemas de construcción, decoraciones y restauración del pueblo, para jugadores que planifican el diseño de su casa, la construcción y diseños eficientes del hogar.",
+          "href": "/mechanics/moonfrost-building",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Retira tocones, rocas y malas hierbas de la base antes de colocar cualquier plano."
+            },
+            {
+              "label": "2",
+              "detail": "Ajusta las estructuras a la cuadrícula para que caminos, vallas e hitos queden alineados."
+            },
+            {
+              "label": "3",
+              "detail": "Reúne madera estándar para vallas básicas, marcos y cajas sencillas."
+            },
+            {
+              "label": "4",
+              "detail": "Procesa tablones y vigas de madera dura para muros firmes, tejados y vigas de granero."
+            },
+            {
+              "label": "5",
+              "detail": "Refina piedra y ladrillos cocidos en horno para cimientos, pozos y chimeneas."
+            },
+            {
+              "label": "6",
+              "detail": "Mantén las estaciones de crafteo cerca de la cabaña principal para reducir desplazamientos y resistencia."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de recursos de Moonfrost",
+          "description": "Recolección de materiales, recursos raros, recompensas de exploración y gestión de recursos, para jugadores que buscan rutas de progresión eficientes y cadenas de refinado.",
+          "href": "/mechanics/moonfrost-farming",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Los trozos de madera dura y el mineral de hierro condicionan tus mejores herramientas, vigas estructurales y maquinaria."
+            },
+            {
+              "label": "A",
+              "detail": "El mineral de cobre y la arcilla mantienen en marcha las mejoras de herramientas, los pozos, las tuberías de riego y los caminos."
+            },
+            {
+              "label": "B",
+              "detail": "Los troncos toscos y la piedra superficial abastecen los cofres, gallineros y cimientos del día a día."
+            },
+            {
+              "label": "C",
+              "detail": "Las fibras vegetales silvestres y las malas hierbas son fáciles de almacenar para cordel, forraje y crafteo temprano."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Actualizaciones de Moonfrost",
+          "description": "Anuncios oficiales, noticias de desarrollo, fases de prueba y lanzamientos de nuevas funciones, para que los jugadores que regresan se mantengan informados del progreso de Moonfrost.",
+          "href": "/guide/moonfrost-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Hoja de ruta",
+              "detail": "Oxalis Games mantiene abierta la fecha de lanzamiento completa 1.0 mientras se pulen los sistemas clave."
+            },
+            {
+              "label": "Alfa",
+              "detail": "Los ciclos de prueba de prealfa cerrada y alfa comunitaria VIP ya están completados."
+            },
+            {
+              "label": "Beta",
+              "detail": "Una beta cerrada ampliada se despliega por oleadas para ajustar el netcode y las líneas de misiones."
+            },
+            {
+              "label": "Cooperativo",
+              "detail": "El cooperativo en línea permite a los amigos construir, cultivar y explorar el valle juntos."
+            },
+            {
+              "label": "Demo",
+              "detail": "Las versiones de prueba permiten probar los bucles de granja y resistencia antes del lanzamiento."
+            },
+            {
+              "label": "Lista de deseos",
+              "detail": "Añade Moonfrost a tu lista de deseos en Steam y Epic para no perderte ninguna oleada de pruebas."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Requisitos del sistema de Moonfrost",
+          "description": "Requisitos de PC, detalles de plataformas e información de disponibilidad para jugadores que comprueban si su equipo puede ejecutar Moonfrost en Steam o Epic.",
+          "href": "/platforms/moonfrost-pc",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "SO",
+              "detail": "Windows 10 (64 bits) mínimo; Windows 11 (64 bits) recomendado."
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i3-4160 / AMD FX-6300 mínimo; Core i5-8400 / Ryzen 5 2600 recomendado."
+            },
+            {
+              "label": "RAM",
+              "detail": "8 GB mínimo; 16 GB recomendado."
+            },
+            {
+              "label": "GPU",
+              "detail": "GeForce GTX 750 Ti / Radeon R7 260X mínimo; GTX 1660 / RX 5600 XT recomendado."
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "6 GB de espacio libre mínimo con SSD recomendado; 10 GB en NVMe recomendado."
+            },
+            {
+              "label": "FPS",
+              "detail": "Apunta a 60 FPS con tasas de fotogramas sin límite de hasta 144+ en escritorio."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de Moonfrost",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Moonfrost.",
+      "items": [
+        {
+          "question": "¿Qué es Moonfrost?",
+          "answer": "Moonfrost es un acogedor RPG de simulación de vida en pixel art 2D del estudio independiente Oxalis Games. Reconstruyes una finca cubierta de maleza cultivando cosechas, fabricando herramientas, pescando y haciéndote amigo de los aldeanos de un valle mágico."
+        },
+        {
+          "question": "¿Moonfrost es multijugador?",
+          "answer": "Sí. Moonfrost admite cooperativo en línea, así que puedes construir, cultivar y explorar el valle junto a tus amigos."
+        },
+        {
+          "question": "¿En qué plataformas está Moonfrost?",
+          "answer": "Moonfrost se está desarrollando para PC, con tiendas de Steam y Epic y versiones de prueba limitadas publicadas antes del lanzamiento completo 1.0."
+        },
+        {
+          "question": "¿Cómo empiezo en Moonfrost?",
+          "answer": "Despeja una zona pequeña junto a tu cabaña, reclama tus herramientas iniciales, planta semillas de maduración rápida como el Rábano Brote-Rápido y riega los cultivos cada día que no llueva."
+        },
+        {
+          "question": "¿Tengo que gestionar la resistencia en Moonfrost?",
+          "answer": "Sí. Cada golpe de hacha, azada y pico consume resistencia en Moonfrost, y quedarte sin ella ralentiza a tu personaje o lo hace desmayarse, así que planifica cada día con cuidado."
+        },
+        {
+          "question": "¿Puedo tener romances con aldeanos en Moonfrost?",
+          "answer": "Moonfrost incluye un sistema de romance basado en conversaciones diarias, regalos preferidos, visitas a festivales y eventos de corazón importantes con cada candidato."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para empezar tu granja en Moonfrost?",
+      "description": "Desde tu primera cosecha hasta una granja isleña próspera, nuestra wiki comunitaria te acompaña con guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Moonfrost",
+    "overviewDescription": "Todo lo que necesitas para empezar tu hogar en Moonfrost, desde la guía para principiantes y el tutorial hasta la demo, la fecha de lanzamiento, el recorrido completo y el análisis detallado."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de juego de Moonfrost",
+    "overviewDescription": "Domina los sistemas centrales de Moonfrost, como la granja, el crafteo, la construcción, la pesca, el romance y las misiones sociales."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y PNJ de Moonfrost",
+    "overviewDescription": "Conoce a cada personaje, aldeano y PNJ de Moonfrost, además del equipo de Oxalis Games detrás del pueblo y sus opciones de romance."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas y descarga de Moonfrost",
+    "overviewDescription": "Información de plataformas de Moonfrost para Steam, requisitos de PC, pasos de descarga, Android, móvil y estado en Switch."
+  },
+  "crypto": {
+    "overviewTitle": "Cripto y Web3 de Moonfrost",
+    "overviewDescription": "Cómo Moonfrost combina la granja acogedora con Web3, incluyendo NFT, el token de Moonfrost, la propiedad en blockchain y la economía play-to-earn."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Moonfrost",
+    "overviewDescription": "Únete a la comunidad de Moonfrost en Discord, Reddit y Twitter y mantente al día con las pruebas alfa y las noticias de acceso anticipado."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación del wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Steam",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Moonfrost Wiki",
+    "about": "Moonfrost Wiki es un portal de guías independiente creado por fans que cubre la granja, el crafteo, los personajes, los objetos y todo lo que necesitas para prosperar en la isla.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Moonfrost Wiki. Sin afiliación con Oxalis Games.",
+    "description": "Granja fantástica acogedora y simulación de vida en PC. Cultiva, fabrica y explora una isla mágica.",
+    "playGame": "Jugar a Moonfrost en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Sitio web oficial",
+    "officialSteam": "Comunidad de Steam",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio",
+    "gettingStarted": "Para empezar",
+    "gameplayMechanics": "Mecánicas de juego",
+    "charactersNpcs": "Personajes y PNJ",
+    "platformsDownload": "Plataformas y descarga"
+  }
+}
