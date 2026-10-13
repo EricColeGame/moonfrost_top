@@ -39,288 +39,408 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core Moonfrost loop: clear a small patch by your cottage, claim your starter tools, and survive your first stamina-limited day without fainting."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Farming Guide",
+          "description": "Till soil with the hoe, water crops every day it does not rain, and plant fast-maturing seeds like Quick-Sprout Radish to fund your first tool upgrades."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Crafting Guide",
+          "description": "Turn rough logs, ore, and plant fiber into planks, bars, and twine at the Basic Workbench, Carpentry Bench, and Stone Furnace."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Moonfrost."
+          "title": "Fishing Guide",
+          "description": "Cast into deeper water for rarer catches, then win the tension minigame by easing off the reel before the line snaps."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Moonfrost Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Moonfrost Beginner Guide",
+        "Farming Guide",
+        "Crafting Guide",
+        "Fishing Guide"
       ],
       "cards": [
         {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "badge": "Start",
+          "title": "Moonfrost Beginner Guide",
+          "description": "Essential day-one priorities for tools, stamina, and your first crops.",
+          "href": "/guide/moonfrost-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Farming",
+          "title": "Moonfrost Farming Guide",
+          "description": "Soil prep, crop cycles, and tool tiers for a productive homestead.",
+          "href": "/mechanics/moonfrost-farming"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Crafting",
+          "title": "Moonfrost Crafting Guide",
+          "description": "Workstations, refining loops, and blueprint tiers explained.",
+          "href": "/mechanics/moonfrost-crafting"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Fishing",
+          "title": "Moonfrost Fishing Guide",
+          "description": "Casting depth, tackle upgrades, and the reeling tension minigame.",
+          "href": "/mechanics/moonfrost-fishing"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Romance",
+          "title": "Moonfrost Romance Guide",
+          "description": "Gifting, heart events, and how to court your favorite villager.",
+          "href": "/mechanics/moonfrost-romance"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Characters",
+          "title": "Moonfrost Villagers Guide",
+          "description": "Daily schedules, friendship tiers, and town upgrade rewards.",
+          "href": "/characters/moonfrost-villagers"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Building",
+          "title": "Moonfrost Building Guide",
+          "description": "Grid placement, material refining, and homestead layout tips.",
+          "href": "/mechanics/moonfrost-building"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Platform",
+          "title": "Moonfrost PC Guide",
+          "description": "System requirements, desktop controls, and graphics settings.",
+          "href": "/platforms/moonfrost-pc"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Moonfrost?",
       "paragraphs": [
-        "Moonfrost is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Moonfrost is a cozy 2D pixel-art life-simulation RPG from indie studio Oxalis Games. You inherit an overgrown homestead and rebuild it into a thriving farm: tilling soil, planting seasonal crops, crafting tools and decor, and exploring a magical countryside shaped by day-night cycles and weather.",
+        "Beyond farming, Moonfrost layers in fishing, mining, workstation crafting, and a deep social system of villagers with daily schedules, gift preferences, romance routes, and community quests. Online co-op lets you build and explore the valley with friends while the game moves through its testing phases toward a full PC launch."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Oxalis Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam / Epic)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Cozy Life-Sim RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Multiplayer",
+          "value": "Online Co-op"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Core Tools",
+          "value": "5"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Crafting Stations",
+          "value": "5"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Moonfrost Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Moonfrost Guides",
+      "description": "Eight core Moonfrost topics covering everything from your first crops to system requirements, each with a quick preview and a full guide.",
       "modules": [
         {
           "order": 1,
-          "name": "Moonfrost Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/moonfrost-codes",
-          "displayType": "code-box",
+          "name": "Moonfrost Beginner Guide",
+          "description": "New player guidance covering the basics of farming, rebuilding the village, exploration, crafting, and early progression systems so beginners understand the core gameplay loop and their first steps.",
+          "href": "/guide/moonfrost-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Clear a compact perimeter next to your cottage instead of deforesting the whole plot."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Speak with the nearby tutorial characters to claim your basic toolset."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Till unobstructed dirt with the hoe and plant short-cycle seeds like Quick-Sprout Radish."
+            },
+            {
+              "label": "4",
+              "detail": "Water every crop each day it does not rain, or its growth timer pauses."
+            },
+            {
+              "label": "5",
+              "detail": "Upgrade the watering can and hand axe first at the blacksmith for bigger capacity and hardwood access."
+            },
+            {
+              "label": "6",
+              "detail": "Explore town and meet villagers in short trips so you never run your stamina bar dry."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/moonfrost-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Moonfrost Farming Guide",
+          "description": "Farming mechanics including land clearing, soil tilling, crop growing, irrigation, and harvesting, aimed at players building a productive homestead and planning seasonal harvests.",
+          "href": "/mechanics/moonfrost-farming",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Radish",
+              "detail": "Quick-Sprout Radish matures in 3 days and delivers fast early cash flow."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Berry",
+              "detail": "Sweet Spring Berry takes 5 days but doubles as an energy snack and gift."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Greens",
+              "detail": "Crisp Meadow Greens ripen in 4 days and feed your cooking pot."
+            },
+            {
+              "label": "Blossom",
+              "detail": "Golden Sun Blossom needs 7 days and sells for the highest early profit."
+            },
+            {
+              "label": "Grass",
+              "detail": "Fibrous Field Grass is rain-fed and supplies feed plus crafting fiber."
+            },
+            {
+              "label": "Water",
+              "detail": "Water planted tiles daily unless it rains, since growth only advances overnight."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/moonfrost-tier-list",
-          "displayType": "tier-grid",
+          "name": "Moonfrost Crafting Recipes",
+          "description": "Crafting-related information including workstations, blueprint tiers, and the refining chains that turn raw materials into tools, decorations, outfits, and collectibles.",
+          "href": "/mechanics/moonfrost-crafting",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Sawn Planks",
+              "detail": "Refine 3 Rough Logs into 1 plank for chests, coops, and floorboards."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Cured Beams",
+              "detail": "Turn 4 Hardwood Chunks into 1 beam for barn frames and tool handles."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Copper Bars",
+              "detail": "Smelt 5 Copper Ore plus 1 charcoal into a bar for Tier-1 tool upgrades."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Iron Ingots",
+              "detail": "Smelt 5 Iron Ore plus 2 charcoal for sturdy tools and processing machinery."
+            },
+            {
+              "label": "Braided Twine",
+              "detail": "Spin 4 Wild Plant Fibers into twine for backpacks, tackle, and sailcloth."
+            },
+            {
+              "label": "Fired Bricks",
+              "detail": "Fire 2 Clay plus 1 kindling into bricks for wells and pathways."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/moonfrost-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Moonfrost Characters Guide",
+          "description": "Villagers, friendships, romance options, and character-related progression, targeting players interested in NPC stories, daily schedules, and the relationship system.",
+          "href": "/characters/moonfrost-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Blacksmith",
+              "detail": "Upgrades your tools and works metal at the town forge and smelter."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Herbalist",
+              "detail": "Sells seeds and teaches seasonal foraging at the apothecary and greenhouse."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Scholar",
+              "detail": "Collects lore and artifacts around the town library and sunken ruins."
+            },
+            {
+              "label": "Carpenter",
+              "detail": "Handles farm expansions and house upgrades from the timber workshop."
+            },
+            {
+              "label": "Angler",
+              "detail": "Shares fishing tackle and waterway tips down at the south pier."
+            },
+            {
+              "label": "Romance",
+              "detail": "Build hearts through daily talks, loved gifts, and festival visits."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/moonfrost-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Moonfrost Building Guide",
+          "description": "Home customization, building systems, decorations, and village restoration, helping players planning house design, construction, and efficient homestead layouts.",
+          "href": "/mechanics/moonfrost-building",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Clear stumps, rocks, and weeds from the footprint before placing any blueprint."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Snap structures to the grid so paths, fences, and landmarks stay aligned."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Gather standard timber for basic fences, framing, and simple crates."
+            },
+            {
+              "label": "4",
+              "detail": "Process planks and hardwood beams for sturdy walls, roofs, and barn rafters."
+            },
+            {
+              "label": "5",
+              "detail": "Refine stone and kiln-fired bricks for foundations, wells, and chimneys."
+            },
+            {
+              "label": "6",
+              "detail": "Keep crafting stations near the main cottage to cut travel and stamina costs."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/moonfrost-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Moonfrost Resources Guide",
+          "description": "Gathering materials, rare resources, exploration rewards, and resource management, supporting players hunting for efficient progression routes and refining chains.",
+          "href": "/mechanics/moonfrost-farming",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Hardwood Chunks and Iron Ore gate your best tools, structural beams, and processing machinery."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Copper Ore and Clay keep tool upgrades, wells, sprinkler piping, and pathways flowing."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Rough Logs and surface Stone fuel everyday chests, coops, and base foundations."
+            },
+            {
+              "label": "C",
+              "detail": "Wild Plant Fiber and field weeds are easy to stock for twine, feed, and early crafting."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Moonfrost Updates",
+          "description": "Official announcements, development news, testing phases, and new feature releases, helping returning players stay informed about Moonfrost's development progress.",
+          "href": "/guide/moonfrost-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roadmap",
+              "detail": "Oxalis Games keeps the full 1.0 launch date open while core systems get polished."
+            },
+            {
+              "label": "Alpha",
+              "detail": "Closed pre-alpha and VIP community alpha test cycles are already complete."
+            },
+            {
+              "label": "Beta",
+              "detail": "An expanded closed beta rolls out in waves to tune netcode and quest lines."
+            },
+            {
+              "label": "Co-op",
+              "detail": "Online co-op lets friends build, farm, and explore the valley together."
+            },
+            {
+              "label": "Demo",
+              "detail": "Playtest builds let players try farming and stamina loops before launch."
+            },
+            {
+              "label": "Wishlist",
+              "detail": "Wishlist Moonfrost on Steam and Epic to catch every new playtest wave."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Moonfrost System Requirements",
+          "description": "PC requirements, platform details, and availability information for players checking whether their device can run Moonfrost on Steam or Epic.",
+          "href": "/platforms/moonfrost-pc",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 (64-bit) minimum; Windows 11 (64-bit) recommended."
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i3-4160 / AMD FX-6300 minimum; Core i5-8400 / Ryzen 5 2600 recommended."
+            },
+            {
+              "label": "RAM",
+              "detail": "8 GB minimum; 16 GB recommended."
+            },
+            {
+              "label": "GPU",
+              "detail": "GeForce GTX 750 Ti / Radeon R7 260X minimum; GTX 1660 / RX 5600 XT recommended."
+            },
+            {
+              "label": "Storage",
+              "detail": "6 GB free space minimum with an SSD recommended; 10 GB on NVMe recommended."
+            },
+            {
+              "label": "FPS",
+              "detail": "Targets 60 FPS with uncapped framerates up to 144+ on desktop."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
+      "title": "Moonfrost FAQ",
       "description": "Quick answers to the most common questions about Moonfrost.",
       "items": [
         {
           "question": "What is Moonfrost?",
-          "answer": "Moonfrost is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Moonfrost is a cozy 2D pixel-art life-simulation RPG from indie studio Oxalis Games. You rebuild an overgrown homestead by farming crops, crafting tools, fishing, and befriending the villagers of a magical valley."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Moonfrost multiplayer?",
+          "answer": "Yes. Moonfrost supports online co-op, so you can build, farm, and explore the valley together with friends."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What platforms is Moonfrost on?",
+          "answer": "Moonfrost is being built for PC, with Steam and Epic storefronts and limited playtest builds released ahead of the full 1.0 launch."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do I start in Moonfrost?",
+          "answer": "Clear a small area near your cottage, claim your starter tools, plant fast-maturing seeds like Quick-Sprout Radish, and water crops every day they do not receive rain."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Do I need to manage stamina in Moonfrost?",
+          "answer": "Yes. Every axe, hoe, and pickaxe swing drains stamina in Moonfrost, and running out slows your character or makes them faint, so plan each day carefully."
+        },
+        {
+          "question": "Can I romance villagers in Moonfrost?",
+          "answer": "Moonfrost includes a romance system built on daily conversations, loved gifts, festival visits, and milestone heart events with each candidate."
         }
       ]
     },
