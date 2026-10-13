@@ -6,7 +6,17 @@
     "description": "Moonfrost is a cozy open-world life simulation game where players build farms, explore a magical island, gather resources, craft items, meet characters, and create their own peaceful fantasy life.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "platforms": "Platforms",
+    "crypto": "Crypto",
+    "community": "Community",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Moonfrost Wiki - Farming, Crafting & Guides",
@@ -451,7 +461,30 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Moonfrost Guides",
+    "overviewDescription": "Everything you need to start your Moonfrost homestead, from the beginner guide and tutorial to the demo, release date, walkthrough, and full review."
+  },
+  "mechanics": {
+    "overviewTitle": "Moonfrost Gameplay Mechanics",
+    "overviewDescription": "Master Moonfrost's core life-sim systems, including farming, crafting, building, fishing, romance, and social quests."
+  },
+  "characters": {
+    "overviewTitle": "Moonfrost Characters & NPCs",
+    "overviewDescription": "Meet every Moonfrost character, villager, and NPC, plus the Oxalis Games team behind the village and its romance options."
+  },
+  "platforms": {
+    "overviewTitle": "Moonfrost Platforms & Download",
+    "overviewDescription": "Moonfrost platform coverage for Steam, PC system requirements, download steps, Android, mobile, and Switch status."
+  },
+  "crypto": {
+    "overviewTitle": "Moonfrost Crypto & Web3",
+    "overviewDescription": "How Moonfrost blends cozy farming with Web3, covering NFTs, the Moonfrost token, blockchain ownership, and the play-to-earn economy."
+  },
+  "community": {
+    "overviewTitle": "Moonfrost Community",
+    "overviewDescription": "Join the Moonfrost community on Discord, Reddit, and Twitter, and stay current with alpha tests and early access news."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -482,11 +515,11 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official Website",
     "officialSteam": "Steam Community",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "gettingStarted": "Getting Started",
+    "gameplayMechanics": "Gameplay Mechanics",
+    "charactersNpcs": "Characters & NPCs",
+    "platformsDownload": "Platforms & Download"
   }
 }
