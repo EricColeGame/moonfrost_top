@@ -7,10 +7,12 @@ export interface SiteConfig {
   url: string;
   supportEmail: string;
   gameUrl?: string;
+  officialWebsite?: string;
   heroVideoId?: string;
   social?: {
     discord?: string;
     youtube?: string;
+    steam?: string;
     twitter?: string;
     tiktok?: string;
   };
@@ -27,10 +29,12 @@ export const siteConfig: SiteConfig = {
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://moonfrost.top",
   supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://moonfrost.top").hostname.replace(/^www\./, "")}`,
   gameUrl: "https://store.steampowered.com/app/2561630/Moonfrost/",
-  heroVideoId: "oSWarPKgHHM", // Moonfrost - Official Gameplay Trailer (gameplay/showcase)
+  officialWebsite: "https://www.moonfrost.com/",
+  heroVideoId: "gaXRL0XDNwk", // Moonfrost - Official Early Access Trailer (official channel, showcase)
   social: {
     discord: "",
     youtube: "https://www.youtube.com/@moonfrostgame",
+    steam: "https://steamcommunity.com/app/2561630",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
